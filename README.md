@@ -318,7 +318,7 @@ StatusLogger配置过后，会在控制台打印响应级别的log4j初始化的
 
 如果觉得不错，请点个赞鼓励鼓励:-D
 
-更多：
+更多： 
 [Log4j2官方文档翻译、学习笔记之二——Appender的分类及常用类型示例](http://blog.csdn.net/zhoucheng05_13/article/details/78494458)  
 [Log4j2官方文档翻译、学习笔记之三——Layouts的分类及常用类型示例](http://blog.csdn.net/zhoucheng05_13/article/details/78569661)  
 
