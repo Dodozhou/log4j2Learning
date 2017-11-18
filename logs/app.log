@@ -1,0 +1,7 @@
+2017-11-09 at 20:04:30 CST TRACE com.star.auto.MyApp 32 main - Exiting application.
+2017-11-18 at 16:24:19 CST TRACE com.star.auto.MyApp 17 main - Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.Entering application.
+2017-11-18 at 16:24:19 CST TRACE com.star.foo.Bar 11 doIt - Enter
+2017-11-18 at 16:24:19 CST ERROR com.star.foo.Bar 12 doIt - Did it again!
+2017-11-18 at 16:24:19 CST TRACE com.star.foo.Bar 13 doIt - Exit with(false)
+2017-11-18 at 16:24:19 CST ERROR com.star.auto.MyApp 29 main - Didn't do it.
+2017-11-18 at 16:24:19 CST TRACE com.star.auto.MyApp 32 main - Exiting application.
